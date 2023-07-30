@@ -19,22 +19,33 @@ http://its-movietime.com/
 
 ## ⚒개발 환경
 ### 📚백엔드
-![Java](https://img.shields.io/badge/Java%2011-007ACC?style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-4285F4?style=for-the-badge&logo=JWT&logoColor=white)</br>
-![JPA](https://img.shields.io/badge/JPA-09A3D5?style=for-the-badge&logo=JPA&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+(추가예정)
 
 ### 🗃️프론트엔드
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+<p>
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+</p>
+<p>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
+ </p>
+ <p>
+    <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon Cloudfront-F96702?style=flat&logo=icloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
+ </p>
+
 
 ### 📄협업툴
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+<p>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+  </p>
+
 
 ## 📚아키텍처
 ![서비스 아키텍쳐](https://github.com/IT-NOVATION/.github/assets/107744534/6e11b5bb-f40d-466b-8bc8-ec05096c6ca2)

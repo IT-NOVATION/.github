@@ -47,19 +47,20 @@ http://its-movietime.com/
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/>
  </p>
  <p>
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon Cloudfront-F96702?style=flat&logo=icloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
  </p>
 
 
 ### 📄협업툴
 <p>
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=jirasoftware&logoColor=white"/>
   </p>
 
 

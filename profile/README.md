@@ -53,6 +53,7 @@ http://its-movietime.com/
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon Cloudfront-F96702?style=flat&logo=icloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
  </p>
 
 

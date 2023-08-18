@@ -35,6 +35,8 @@ http://its-movietime.com/
 <p>
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
  <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=intellijidea&logoColor=white"/>
+
 </p>
 
 ### 🗃️프론트엔드

@@ -2,7 +2,7 @@
 
 <img width=300 src="https://github.com/IT-NOVATION/.github/assets/107744534/33ec290b-ce1e-4593-b845-0b0ec71e3e12"/>
 
-http://its-movietime.com/
+### 현재 aws 정책 변화로 인하여 잠시 배포를 중단하였습니다.
 
 ### 프로젝트 기간
 1기 : 2023.03~2023.07

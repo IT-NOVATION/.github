@@ -2,10 +2,23 @@
 
 <img width=300 src="https://github.com/IT-NOVATION/.github/assets/107744534/33ec290b-ce1e-4593-b845-0b0ec71e3e12"/>
 
-### aws 정책 변화로 인하여 잠시 배포를 중단하였습니다.
+## 프로젝트 기간
+2023.03~2023.07
 
-### 프로젝트 기간
-1기 : 2023.03~2023.07
+## 운영 기간
+2023.07-2023.12
+(비용 문제로 현재 중단했습니다.)
+
+## 프로젝트 소개
+네이버, 브런치, 티스토리와 같은 블로그 플랫폼들에 작성된 영화 리뷰들을 통합하는 영화 리뷰 플랫폼
+
+## 프로젝트 타겟
+네이버, 브런치, 티스토리, CGV 등 영화 리뷰 서비스 사용 고객
+
+## 프로젝트 기능
+회원가입/로그인, 영화 등록/조회, 댓글 등록/조회/삭제, 리뷰 등록/조회/삭제, 팔로우/팔로잉, 좋아요
+
+
 
 ![banner1](https://github.com/IT-NOVATION/.github/assets/107744534/ead2be9b-96e1-4b73-9b44-af9aa8e9dab9)
 ![banner2](https://github.com/IT-NOVATION/.github/assets/107744534/63bf4d26-c71a-457e-aa11-0176d6f65437)
@@ -13,15 +26,10 @@
 ![banner4](https://github.com/IT-NOVATION/.github/assets/107744534/493a1df9-b7b7-4785-9b6b-190a6a5ae118)
 
 
-## 👨‍👨‍👧‍👦 팀소개
-
-(추가예정)
-
-## ⚒개발 환경
-### 📚백엔드
+## 개발 환경
+### 백엔드
 <p>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -39,7 +47,7 @@
 
 </p>
 
-### 🗃️프론트엔드
+### 프론트엔드
 <p>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -59,19 +67,19 @@
  </p>
 
 
-### 📄협업툴
+### 협업툴
 <p>
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
  <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat&logo=jirasoftware&logoColor=white"/>
   </p>
 
 
-## 📚아키텍처
+## 아키텍처
 ![서비스 아키텍쳐](https://github.com/IT-NOVATION/.github/assets/107744534/6e11b5bb-f40d-466b-8bc8-ec05096c6ca2)
 
 
-## 📜ERD
+## ERD
 <p align="center"><img width=800 src="https://github.com/IT-NOVATION/.github/assets/107744534/b24886a4-861c-4d77-9628-5bfc28046f2e"/></p>
 
 
-## 
+
